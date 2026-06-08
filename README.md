@@ -77,6 +77,7 @@ Machine Run Bit	W0.00
 ## Output
 
 
+<img width="1915" height="1029" alt="image" src="https://github.com/user-attachments/assets/4b782af8-9b91-494d-acb3-fcbbd8065c84" />
 
 
 
@@ -94,4 +95,4 @@ Machine Run Bit	W0.00
 
 
 ## Result
-The Automatic Drilling Machine Control System was successfully implemented using an Omron PLC. The drill moved downward in the forward direction, reversed automatically upon reaching the bottom position, returned to the home position, and stopped safely. The Stop Push Button provided immediate shutdown during operation.
+The Automatic Drilling Machine Control System was successfully implemented using an Omron PLC. The drill moved downward in the forward direction, reversed automatically upon reaching the bottom position, returned to the home position, and  stopped safely. The Stop Push Button provided immediate shutdown during operation.
