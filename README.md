@@ -11,7 +11,7 @@ To design and implement an Automatic Drilling Machine Control System using an Om
 
 ## Apparatus Required
 •	Omron PLC (CP1E/CP1L)
-•	CX-Programmer Software
+•	CX-Programmer Softwares 
 
 ## Theory
 Automatic drilling machines are widely used in manufacturing industries. The drill moves downward to perform the drilling operation and returns upward automatically after reaching the required depth. PLC controls the motor direction using forward and reverse commands based on sensor feedback.
